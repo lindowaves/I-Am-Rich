@@ -9,6 +9,7 @@ void main () {
         appBar: AppBar(
           title: Text('I Am Rich', style: TextStyle(color: Colors.white),),
           backgroundColor: Colors.blueGrey[900],
+          centerTitle: true,
           
         ),
        body: Center(
