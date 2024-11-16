@@ -1,16 +1,28 @@
-# i_am_rich
+# I Am Rich
 
-A new Flutter project.
+A simple Flutter application that displays a centered diamond image with a stylish interface. This project serves as an introductory Flutter app, helping you get familiar with widgets, layouts, and basic styling.
+
+---
+
+## Features
+
+- **Custom AppBar**: Displays a title with a styled color theme.
+- **Background Styling**: A soothing blue-grey background theme.
+- **Centered Image**: A diamond image positioned at the center of the screen.
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed on your machine.
+- A compatible IDE (e.g., Visual Studio Code, Android Studio).
+- A connected device or emulator to run the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository or copy the project files into your working directory.
+2. Navigate to the project folder via terminal:
+   ```bash
+   cd <project-folder>
